@@ -4,8 +4,8 @@
 
 If you discover a vulnerability in the Final Transfer Tracker program, we kindly ask that you report it **privately and responsibly** to our security team:
 
-**Email:** blueunicorn0805@gmail.com  
-**Telegram:** @turbox_chain  
+**Email:** jrubeiphone@gmail.com  
+**Telegram:** @jnice2025  
 
 We will make every effort to acknowledge your report promptly and provide a fix as quickly as possible.
 
@@ -43,4 +43,4 @@ We appreciate contributions from the whitehat community. Prior disclosures will 
 ## 🔗 Links
 
 - Source Code: https://github.com/TurboChainx/final-transfer-tracker  
-- Verifiable Build Status: https://verify.osec.io/status/CPdJTxNtRtuS3WnpnmNnxmf4VNEm7StKfVpv2SCYSLK9  
+- Verifiable Build Status: https://verify.osec.io/status/2vAaF2P7QriWd5VJioSoiyBdU1ieU7mQX5qCp3djD61G  
