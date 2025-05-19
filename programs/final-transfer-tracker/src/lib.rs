@@ -5,7 +5,7 @@ use solana_security_txt::security_txt;
 security_txt! {
     name: "Final Transfer Tracker",
     project_url: "https://github.com/TurboChainx/final-transfer-tracker",
-    contacts: "email:jrubeiphone@gmail.com, telegram:@jnice2025, https://en.wikipedia.org/wiki/Joey_Rubenstein",
+    contacts: "email:jrubeiphone@gmail.com, telegram:@jnice2025,",
     policy: "https://github.com/TurboChainx/final-transfer-tracker/SECURITY.md",
     preferred_languages: "en",
     source_code: "https://github.com/TurboChainx/final-transfer-tracker",
