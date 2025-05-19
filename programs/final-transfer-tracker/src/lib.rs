@@ -5,13 +5,13 @@ use solana_security_txt::security_txt;
 security_txt! {
     name: "Final Transfer Tracker",
     project_url: "https://github.com/TurboChainx/final-transfer-tracker",
-    contacts: "email:security@turbochainx.xyz,telegram:@TurboChainx,discord:TurboChainx#1234",
-    policy: "https://github.com/TurboChainx/final-transfer-tracker/blob/main/SECURITY.md",
+    contacts: "email:jrubeiphone@gmail.com, telegram:@jnice2025, https://en.wikipedia.org/wiki/Joey_Rubenstein",
+    policy: "https://github.com/TurboChainx/final-transfer-tracker/SECURITY.md",
     preferred_languages: "en",
     source_code: "https://github.com/TurboChainx/final-transfer-tracker",
     source_revision: env!("GITHUB_SHA", ""),
     source_release: env!("GITHUB_REF_NAME", ""),
-    auditors: "None",
+    auditors: "darkSs Teams",
     acknowledgements: "Whitehat researchers are welcome."
 }
 
