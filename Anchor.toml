@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-final_transfer_tracker = "2RF9K6PH8AT3mMrnMrvSNDuNeQPeXuqmiNMJRBGgLa2a"
+final_transfer_tracker = "2K3rtnK7jN3BmFvPW4coMiF31noaXuaER6N4edNJZm7N"
 
 [programs.mainnet]
 final_transfer_tracker = "2K3rtnK7jN3BmFvPW4coMiF31noaXuaER6N4edNJZm7N"
@@ -15,8 +15,8 @@ final_transfer_tracker = "2K3rtnK7jN3BmFvPW4coMiF31noaXuaER6N4edNJZm7N"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "mainnet"
-wallet = "./mainnet-deploy-keypair.json"
+cluster = "devnet"
+wallet = "./devnet-keypair.json"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

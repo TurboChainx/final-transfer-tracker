@@ -9,8 +9,6 @@ security_txt! {
     policy: "https://github.com/TurboChainx/final-transfer-tracker/SECURITY.md",
     preferred_languages: "en",
     source_code: "https://github.com/TurboChainx/final-transfer-tracker",
-    source_revision: env!("GITHUB_SHA", ""),
-    source_release: env!("GITHUB_REF_NAME", ""),
     auditors: "darkSs Teams",
     acknowledgements: "Whitehat researchers are welcome."
 }
