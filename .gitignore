@@ -1,0 +1,32 @@
+# Ignore build artifacts
+/target
+/.anchor
+/programs/**/target
+
+# Ignore node_modules
+/node_modules
+
+# Anchor deployment keys (keep private!)
+/mainnet-deploy-keypair.json
+**/*-keypair.json
+
+# IDE/editor junk
+.DS_Store
+.idea
+.vscode
+
+# Logs
+*.log
+
+# Dependency lock files (optional for stricter environments)
+yarn.lock
+package-lock.json
+
+# Environment/config files
+.env
+.env.*.local
+
+# System metadata
+*.swp
+*.swo
+*.bak
