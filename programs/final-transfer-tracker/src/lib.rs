@@ -18,7 +18,7 @@ security_txt! {
 // programs/final-transfer_tracker/src/lib.rs
 use anchor_lang::prelude::*;
 
-declare_id!("CPdJTxNtRtuS3WnpnmNnxmf4VNEm7StKfVpv2SCYSLK9");
+declare_id!("2K3rtnK7jN3BmFvPW4coMiF31noaXuaER6N4edNJZm7N");
 
 #[program]
 pub mod final_transfer_tracker {

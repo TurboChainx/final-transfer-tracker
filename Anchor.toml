@@ -9,7 +9,7 @@ skip-lint = false
 final_transfer_tracker = "2RF9K6PH8AT3mMrnMrvSNDuNeQPeXuqmiNMJRBGgLa2a"
 
 [programs.mainnet]
-final_transfer_tracker = "CPdJTxNtRtuS3WnpnmNnxmf4VNEm7StKfVpv2SCYSLK9"
+final_transfer_tracker = "2K3rtnK7jN3BmFvPW4coMiF31noaXuaER6N4edNJZm7N"
 
 [registry]
 url = "https://api.apr.dev"
